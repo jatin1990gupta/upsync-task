@@ -1,0 +1,37 @@
+.partner {
+  display: flex;
+  align-items: center;
+  padding: 25px 0;
+  background-color: black;
+
+  h1 {
+    width: 40%;
+    padding: 20px 20px 20px 60px;
+    background-color: #e6e6e6;
+    margin-right: 100px;
+    text-align: left;
+
+    span {
+      color: #cc6622;
+    }
+  }
+
+  select {
+    height: 30px;
+    width: 250px;
+    margin-right: 30px;
+    color: white;
+    background-color: #636363;
+    padding: 0 20px;
+    cursor: pointer;
+  }
+
+  button {
+    padding: 8px 30px;
+    font-weight: 500;
+    color: white;
+    background-color: #cc6622;
+    border: none;
+    cursor: pointer;
+  }
+}

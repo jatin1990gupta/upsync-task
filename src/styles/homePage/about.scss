@@ -1,0 +1,18 @@
+.about {
+  color: white;
+  background-color: #3f1f08;
+  padding: 70px 100px;
+
+  &-inner {
+    border: 1px solid white;
+    padding: 100px 50px;
+
+    h1 {
+      margin-bottom: 70px;
+    }
+
+    p {
+      font-weight: 100;
+    }
+  }
+}

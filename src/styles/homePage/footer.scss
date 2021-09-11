@@ -1,0 +1,29 @@
+footer {
+  display: flex;
+  color: white;
+  background-color: black;
+  margin-top: 20px;
+
+  .heading {
+    text-align: left;
+    font-size: 10px;
+    margin: 50px 90px;
+    width: 300px;
+
+    h1 {
+      margin-bottom: 20px;
+      font-size: 1.4rem;
+    }
+
+    p {
+      margin: 5px 0;
+      font-size: 0.8rem;
+    }
+
+    img {
+      width: 180px;
+      margin-bottom: 10px;
+      display: block;
+    }
+  }
+}

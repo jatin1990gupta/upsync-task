@@ -1,0 +1,17 @@
+.services {
+  display: flex;
+  justify-content: space-around;
+  background-color: #482209;
+  padding: 60px 90px;
+
+  &-item {
+    img {
+      height: 100px;
+    }
+
+    p {
+      margin: 15px;
+      color: white;
+    }
+  }
+}
